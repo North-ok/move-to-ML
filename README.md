@@ -1,2 +1,6 @@
-# move-to-ML
-Step to machine learning since 0 to 100. I public theme and after i learn next theme.
+# Конспекты по ML
+
+## Оглавление
+1. [Линейная алгебра](01_Линейная_алгебра.md)
+2. [Теория вероятностей](02_Теория_вероятностей.md)
+3. [Регрессия](03_Регрессия.md)
